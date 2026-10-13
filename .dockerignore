@@ -1,0 +1,12 @@
+**/node_modules
+**/.svelte-kit
+**/dist
+**/build
+*.log
+.git
+.venv
+__pycache__
+*.pyc
+tests/benchmark-results
+tests/playwright-report
+tests/test-results

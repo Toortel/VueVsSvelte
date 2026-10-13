@@ -1,0 +1,42 @@
+# ─────────────────────────────────────────────────────────────
+# Docker Compose – Isolated benchmark execution environment
+#
+# Builds a single container with all services + Playwright,
+# runs tests N times, and exports CSV results via a bound volume.
+#
+# Usage:
+#   docker compose up --build                         # all suites × 10
+#   docker compose run bench benchmark 10             # benchmark only × 10
+#   docker compose run bench all 5                    # both suites × 5
+# ─────────────────────────────────────────────────────────────
+services:
+  bench:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: masters-bench
+    # Chromium needs more than the 64MB default /dev/shm for million-cell tables
+    shm_size: "2gb"
+    # Hard cap (enforced outside swarm, unlike deploy.resources) – a runaway
+    # renderer gets OOM-killed instead of crashing the Docker VM
+    mem_limit: 8g
+    # Mount results directory so CSV files survive after container exits
+    volumes:
+      - ./tests/benchmark-results:/app/tests/benchmark-results
+    # Resource limits for consistent benchmarks
+    deploy:
+      resources:
+        limits:
+          cpus: "4"
+          memory: 8G
+        reservations:
+          cpus: "2"
+          memory: 4G
+    environment:
+      - NODE_ENV=production
+      # Suppress Playwright CLI colors in CI
+      - CI=true
+      # Uncomment to skip the ~1.25M-cell colscale shapes if the host runs out of memory
+      # - BENCH_MAX_CELLS=1000000
+    # Default: all suites × 10 iterations
+    command: ["all", "10"]

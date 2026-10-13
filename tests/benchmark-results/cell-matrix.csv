@@ -1,0 +1,401 @@
+iteration,framework,operation,e2e_ms,in_app_ms
+1,Vue,"Create 1,250×10 grid",1142.0999999999767,199
+1,Vue,"Update every 10th row (1,250×10)",455.69999999995343,38.2
+1,Vue,"Replace all rows (1,250×10)",1122.5999999999767,112.9
+1,Vue,"Clear 1,250×10 grid",78.09999999997672,19.4
+1,Vue,"Create 2,500×5 grid",492.69999999995343,64.3
+1,Vue,"Update every 10th row (2,500×5)",907.9000000000233,56.4
+1,Vue,"Replace all rows (2,500×5)",524,102.5
+1,Vue,"Clear 2,500×5 grid",156,39.9
+1,Vue,Create 250×50 grid,587.1999999999534,44.6
+1,Vue,Update every 10th row (250×50),394.29999999993015,20
+1,Vue,Replace all rows (250×50),335,35.8
+1,Vue,Clear 250×50 grid,87.90000000002328,19
+1,Vue,Create 500×25 grid,422.70000000006985,29.2
+1,Vue,Update every 10th row (500×25),176,13.7
+1,Vue,Replace all rows (500×25),717.2000000000698,46.2
+1,Vue,Clear 500×25 grid,90.5,21.1
+1,Vue,"Create 12,500×1 grid",1440.5,189.8
+1,Vue,"Update every 10th row (12,500×1)",706.5999999999767,109.6
+1,Vue,"Replace all rows (12,500×1)",2513.9000000000233,563.7
+1,Vue,"Clear 12,500×1 grid",234.5,88.1
+1,Svelte,"Create 1,250×10 grid",846.1000000000931,269.6
+1,Svelte,"Update every 10th row (1,250×10)",373.79999999993015,37.2
+1,Svelte,"Replace all rows (1,250×10)",850.6999999999534,177.8
+1,Svelte,"Clear 1,250×10 grid",139.19999999995343,32.3
+1,Svelte,"Create 2,500×5 grid",543.5,149.7
+1,Svelte,"Update every 10th row (2,500×5)",378.70000000006985,28.4
+1,Svelte,"Replace all rows (2,500×5)",755.5999999999767,180.2
+1,Svelte,"Clear 2,500×5 grid",73.19999999995343,21.2
+1,Svelte,Create 250×50 grid,521.7000000000698,65.3
+1,Svelte,Update every 10th row (250×50),138.09999999997672,4.6
+1,Svelte,Replace all rows (250×50),345.80000000004657,62.1
+1,Svelte,Clear 250×50 grid,81.90000000002328,22
+1,Svelte,Create 500×25 grid,369,63.9
+1,Svelte,Update every 10th row (500×25),138.5,7.8
+1,Svelte,Replace all rows (500×25),555.1999999999534,53.6
+1,Svelte,Clear 500×25 grid,78.29999999993015,21.6
+1,Svelte,"Create 12,500×1 grid",2746.29999999993,1628.2
+1,Svelte,"Update every 10th row (12,500×1)",569.7000000000698,128.9
+1,Svelte,"Replace all rows (12,500×1)",2667.8000000000466,1658.4
+1,Svelte,"Clear 12,500×1 grid",164.69999999995343,72.9
+2,Vue,"Create 1,250×10 grid",710.6999999999534,168.5
+2,Vue,"Update every 10th row (1,250×10)",283.19999999995343,20.6
+2,Vue,"Replace all rows (1,250×10)",587.1999999999534,113.6
+2,Vue,"Clear 1,250×10 grid",112.90000000002328,26.7
+2,Vue,"Create 12,500×1 grid",1572.5999999999767,283.5
+2,Vue,"Update every 10th row (12,500×1)",619.5999999999767,117.4
+2,Vue,"Replace all rows (12,500×1)",1825.4000000000233,577.4
+2,Vue,"Clear 12,500×1 grid",229.30000000004657,96.6
+2,Vue,Create 500×25 grid,1360.6999999999534,47.6
+2,Vue,Update every 10th row (500×25),220.70000000006985,20.9
+2,Vue,Replace all rows (500×25),336.0999999999767,42.6
+2,Vue,Clear 500×25 grid,77.90000000002328,18.1
+2,Vue,"Create 2,500×5 grid",517.0999999999767,65.3
+2,Vue,"Update every 10th row (2,500×5)",366.30000000004657,57.4
+2,Vue,"Replace all rows (2,500×5)",602,197.6
+2,Vue,"Clear 2,500×5 grid",117.20000000006985,32.4
+2,Vue,Create 250×50 grid,441.30000000004657,23.2
+2,Vue,Update every 10th row (250×50),159.59999999997672,14.2
+2,Vue,Replace all rows (250×50),342.79999999993015,32.5
+2,Vue,Clear 250×50 grid,104.40000000002328,20.2
+2,Svelte,"Create 1,250×10 grid",607.1000000000931,138.8
+2,Svelte,"Update every 10th row (1,250×10)",318.9000000000233,23.7
+2,Svelte,"Replace all rows (1,250×10)",797.8999999999069,136.7
+2,Svelte,"Clear 1,250×10 grid",118.90000000002328,30.9
+2,Svelte,"Create 12,500×1 grid",2747,1586.1
+2,Svelte,"Update every 10th row (12,500×1)",742.5,240.6
+2,Svelte,"Replace all rows (12,500×1)",2932.20000000007,1834.2
+2,Svelte,"Clear 12,500×1 grid",200.80000000004657,99.7
+2,Svelte,Create 500×25 grid,430.9000000000233,65.2
+2,Svelte,Update every 10th row (500×25),155.40000000002328,9.5
+2,Svelte,Replace all rows (500×25),1039.5999999999767,69
+2,Svelte,Clear 500×25 grid,136,25.7
+2,Svelte,"Create 2,500×5 grid",464.70000000006985,108.3
+2,Svelte,"Update every 10th row (2,500×5)",282.30000000004657,18.9
+2,Svelte,"Replace all rows (2,500×5)",528.5,165.6
+2,Svelte,"Clear 2,500×5 grid",90.79999999993015,25.5
+2,Svelte,Create 250×50 grid,499.80000000004657,32.7
+2,Svelte,Update every 10th row (250×50),157.80000000004657,6.5
+2,Svelte,Replace all rows (250×50),345.20000000006985,54.2
+2,Svelte,Clear 250×50 grid,80.59999999997672,18.8
+3,Vue,Create 250×50 grid,449.9000000000233,55
+3,Vue,Update every 10th row (250×50),307,36.7
+3,Vue,Replace all rows (250×50),370.70000000006985,49.4
+3,Vue,Clear 250×50 grid,93.30000000004657,16.2
+3,Vue,"Create 12,500×1 grid",1437.8000000000466,285.8
+3,Vue,"Update every 10th row (12,500×1)",759.9000000000233,125
+3,Vue,"Replace all rows (12,500×1)",2206.4000000000233,434.2
+3,Vue,"Clear 12,500×1 grid",213,84.1
+3,Vue,Create 500×25 grid,405.5999999999767,29
+3,Vue,Update every 10th row (500×25),204.5,15
+3,Vue,Replace all rows (500×25),422.5,71
+3,Vue,Clear 500×25 grid,126.5,23.4
+3,Vue,"Create 2,500×5 grid",473,67.6
+3,Vue,"Update every 10th row (2,500×5)",573.5,52.2
+3,Vue,"Replace all rows (2,500×5)",1242.2000000000698,146
+3,Vue,"Clear 2,500×5 grid",109.90000000002328,27.1
+3,Vue,"Create 1,250×10 grid",925.0999999999767,73.4
+3,Vue,"Update every 10th row (1,250×10)",625.5,31.6
+3,Vue,"Replace all rows (1,250×10)",1828.9000000000233,126.2
+3,Vue,"Clear 1,250×10 grid",139.40000000002328,24.6
+3,Svelte,Create 250×50 grid,553.4000000000233,93.6
+3,Svelte,Update every 10th row (250×50),172.5,21.8
+3,Svelte,Replace all rows (250×50),464.19999999995343,99.5
+3,Svelte,Clear 250×50 grid,88.89999999990687,20.4
+3,Svelte,"Create 12,500×1 grid",3475.899999999907,1996.8
+3,Svelte,"Update every 10th row (12,500×1)",419.0999999999767,68.5
+3,Svelte,"Replace all rows (12,500×1)",2494.3000000000466,1413.3
+3,Svelte,"Clear 12,500×1 grid",213,86.4
+3,Svelte,Create 500×25 grid,468,57.5
+3,Svelte,Update every 10th row (500×25),169.79999999993015,10.3
+3,Svelte,Replace all rows (500×25),988.3000000000466,110.2
+3,Svelte,Clear 500×25 grid,111.90000000002328,14.4
+3,Svelte,"Create 2,500×5 grid",461,105.7
+3,Svelte,"Update every 10th row (2,500×5)",294.79999999993015,19.8
+3,Svelte,"Replace all rows (2,500×5)",760.8000000000466,146.8
+3,Svelte,"Clear 2,500×5 grid",100.5,23.3
+3,Svelte,"Create 1,250×10 grid",400.5,52.7
+3,Svelte,"Update every 10th row (1,250×10)",347.5,35.9
+3,Svelte,"Replace all rows (1,250×10)",620.7999999999302,97.2
+3,Svelte,"Clear 1,250×10 grid",95.19999999995343,25.1
+4,Vue,Create 500×25 grid,539.5,83.1
+4,Vue,Update every 10th row (500×25),157.70000000006985,13
+4,Vue,Replace all rows (500×25),417.9000000000233,43.4
+4,Vue,Clear 500×25 grid,101.69999999995343,22.9
+4,Vue,Create 250×50 grid,580.0999999999767,135.7
+4,Vue,Update every 10th row (250×50),166.70000000006985,10.9
+4,Vue,Replace all rows (250×50),342.19999999995343,43.4
+4,Vue,Clear 250×50 grid,80.40000000002328,19.9
+4,Vue,"Create 1,250×10 grid",464.4000000000233,48.7
+4,Vue,"Update every 10th row (1,250×10)",257.0999999999767,15.9
+4,Vue,"Replace all rows (1,250×10)",537.1999999999534,62
+4,Vue,"Clear 1,250×10 grid",118.40000000002328,21.9
+4,Vue,"Create 12,500×1 grid",1597,229.5
+4,Vue,"Update every 10th row (12,500×1)",675.1999999999534,144.3
+4,Vue,"Replace all rows (12,500×1)",1823,427.4
+4,Vue,"Clear 12,500×1 grid",227.59999999997672,102.2
+4,Vue,"Create 2,500×5 grid",432.9000000000233,55.5
+4,Vue,"Update every 10th row (2,500×5)",335.9000000000233,28.1
+4,Vue,"Replace all rows (2,500×5)",502.4000000000233,100
+4,Vue,"Clear 2,500×5 grid",135.80000000004657,27.1
+4,Svelte,Create 500×25 grid,531.2999999999302,104.9
+4,Svelte,Update every 10th row (500×25),143.69999999995343,15.2
+4,Svelte,Replace all rows (500×25),554.3999999999069,107.8
+4,Svelte,Clear 500×25 grid,98.5,27.6
+4,Svelte,Create 250×50 grid,365.0999999999767,54.7
+4,Svelte,Update every 10th row (250×50),160.19999999995343,10.7
+4,Svelte,Replace all rows (250×50),473.5999999999767,67.2
+4,Svelte,Clear 250×50 grid,59,17.5
+4,Svelte,"Create 1,250×10 grid",449.5,68.2
+4,Svelte,"Update every 10th row (1,250×10)",278.5999999999767,10.3
+4,Svelte,"Replace all rows (1,250×10)",781.7000000000698,114.6
+4,Svelte,"Clear 1,250×10 grid",80.19999999995343,21.6
+4,Svelte,"Create 12,500×1 grid",2345.4000000000233,1405.7
+4,Svelte,"Update every 10th row (12,500×1)",785.7000000000698,87.2
+4,Svelte,"Replace all rows (12,500×1)",3341.6999999999534,2077.5
+4,Svelte,"Clear 12,500×1 grid",503.4000000000233,293.9
+4,Svelte,"Create 2,500×5 grid",1287.9000000000233,243
+4,Svelte,"Update every 10th row (2,500×5)",772.5999999999767,15.6
+4,Svelte,"Replace all rows (2,500×5)",811.8000000000466,195.6
+4,Svelte,"Clear 2,500×5 grid",135.29999999993015,50.3
+5,Vue,Create 250×50 grid,569.2000000000698,66
+5,Vue,Update every 10th row (250×50),393.69999999995343,46.3
+5,Vue,Replace all rows (250×50),401.29999999993015,63.5
+5,Vue,Clear 250×50 grid,99,18.8
+5,Vue,Create 500×25 grid,701.6000000000931,50.9
+5,Vue,Update every 10th row (500×25),182.40000000002328,13.5
+5,Vue,Replace all rows (500×25),501.79999999993015,63.5
+5,Vue,Clear 500×25 grid,150.19999999995343,38.7
+5,Vue,"Create 1,250×10 grid",509.5999999999767,37.7
+5,Vue,"Update every 10th row (1,250×10)",287.4000000000233,19
+5,Vue,"Replace all rows (1,250×10)",457.79999999993015,57.7
+5,Vue,"Clear 1,250×10 grid",97.59999999997672,21.2
+5,Vue,"Create 12,500×1 grid",1704.5999999999767,221.3
+5,Vue,"Update every 10th row (12,500×1)",612.6999999999534,108.1
+5,Vue,"Replace all rows (12,500×1)",1617,336
+5,Vue,"Clear 12,500×1 grid",172.59999999997672,73.8
+5,Vue,"Create 2,500×5 grid",1234.6999999999534,96.2
+5,Vue,"Update every 10th row (2,500×5)",355.39999999990687,48.3
+5,Vue,"Replace all rows (2,500×5)",573.9000000000233,98.4
+5,Vue,"Clear 2,500×5 grid",187.30000000004657,49.8
+5,Svelte,Create 250×50 grid,593.8000000000466,129.8
+5,Svelte,Update every 10th row (250×50),144.40000000002328,17.1
+5,Svelte,Replace all rows (250×50),503.80000000004657,91.2
+5,Svelte,Clear 250×50 grid,72.09999999997672,18.9
+5,Svelte,Create 500×25 grid,330.80000000004657,56.6
+5,Svelte,Update every 10th row (500×25),162.40000000002328,11.3
+5,Svelte,Replace all rows (500×25),489,73.1
+5,Svelte,Clear 500×25 grid,77.80000000004657,21.3
+5,Svelte,"Create 1,250×10 grid",397.19999999995343,67
+5,Svelte,"Update every 10th row (1,250×10)",315.9000000000233,16.5
+5,Svelte,"Replace all rows (1,250×10)",684.5,94.2
+5,Svelte,"Clear 1,250×10 grid",97,27.2
+5,Svelte,"Create 12,500×1 grid",2611,1649.1
+5,Svelte,"Update every 10th row (12,500×1)",531,87.1
+5,Svelte,"Replace all rows (12,500×1)",3221.79999999993,2005.5
+5,Svelte,"Clear 12,500×1 grid",187.40000000002328,71.4
+5,Svelte,"Create 2,500×5 grid",588.4000000000233,129.3
+5,Svelte,"Update every 10th row (2,500×5)",688.0999999999767,19.1
+5,Svelte,"Replace all rows (2,500×5)",518.8999999999069,120.5
+5,Svelte,"Clear 2,500×5 grid",107.29999999993015,29.4
+6,Vue,Create 500×25 grid,481.30000000004657,62.4
+6,Vue,Update every 10th row (500×25),223.69999999995343,24.5
+6,Vue,Replace all rows (500×25),442.5999999999767,77.9
+6,Vue,Clear 500×25 grid,115.80000000004657,26.9
+6,Vue,Create 250×50 grid,472.0999999999767,34.7
+6,Vue,Update every 10th row (250×50),137.39999999990687,9.8
+6,Vue,Replace all rows (250×50),334.5,40.3
+6,Vue,Clear 250×50 grid,91.79999999993015,19.9
+6,Vue,"Create 1,250×10 grid",402,49.8
+6,Vue,"Update every 10th row (1,250×10)",285.10000000009313,15.1
+6,Vue,"Replace all rows (1,250×10)",421.70000000006985,69.7
+6,Vue,"Clear 1,250×10 grid",94.19999999995343,20.8
+6,Vue,"Create 2,500×5 grid",625.5,64.3
+6,Vue,"Update every 10th row (2,500×5)",270.5999999999767,28.6
+6,Vue,"Replace all rows (2,500×5)",552,91.9
+6,Vue,"Clear 2,500×5 grid",107.80000000004657,28.6
+6,Vue,"Create 12,500×1 grid",1611.5,222
+6,Vue,"Update every 10th row (12,500×1)",697.9000000000233,144.7
+6,Vue,"Replace all rows (12,500×1)",1560.7000000000698,406.5
+6,Vue,"Clear 12,500×1 grid",255.09999999997672,84.4
+6,Svelte,Create 500×25 grid,551.1000000000931,99.7
+6,Svelte,Update every 10th row (500×25),160.9000000001397,20.2
+6,Svelte,Replace all rows (500×25),592.4000000001397,101.1
+6,Svelte,Clear 500×25 grid,87.89999999990687,21.5
+6,Svelte,Create 250×50 grid,344,65.5
+6,Svelte,Update every 10th row (250×50),140.5,11.9
+6,Svelte,Replace all rows (250×50),548.8000000000466,86.2
+6,Svelte,Clear 250×50 grid,76.5,21.3
+6,Svelte,"Create 1,250×10 grid",410.19999999995343,64.5
+6,Svelte,"Update every 10th row (1,250×10)",277.9000000001397,17
+6,Svelte,"Replace all rows (1,250×10)",697.3000000000466,103.2
+6,Svelte,"Clear 1,250×10 grid",67.39999999990687,19
+6,Svelte,"Create 2,500×5 grid",483.19999999995343,110.8
+6,Svelte,"Update every 10th row (2,500×5)",299.69999999995343,21.2
+6,Svelte,"Replace all rows (2,500×5)",686.1000000000931,183.1
+6,Svelte,"Clear 2,500×5 grid",101.4000000001397,25.4
+6,Svelte,"Create 12,500×1 grid",3471.6999999999534,1667.6
+6,Svelte,"Update every 10th row (12,500×1)",459.10000000009313,86.4
+6,Svelte,"Replace all rows (12,500×1)",3013.4000000001397,2081
+6,Svelte,"Clear 12,500×1 grid",192.0999999998603,87.7
+7,Vue,Create 250×50 grid,471.5999999998603,64.4
+7,Vue,Update every 10th row (250×50),169.9000000001397,23
+7,Vue,Replace all rows (250×50),419.60000000009313,55.5
+7,Vue,Clear 250×50 grid,92.9000000001397,23.2
+7,Vue,Create 500×25 grid,455.0999999998603,41.6
+7,Vue,Update every 10th row (500×25),159.30000000004657,13
+7,Vue,Replace all rows (500×25),391.9000000001397,70.7
+7,Vue,Clear 500×25 grid,95.80000000004657,19.9
+7,Vue,"Create 12,500×1 grid",1369.3000000000466,276.8
+7,Vue,"Update every 10th row (12,500×1)",551.5,78.1
+7,Vue,"Replace all rows (12,500×1)",1795.1999999999534,343.6
+7,Vue,"Clear 12,500×1 grid",219.39999999990687,85.7
+7,Vue,"Create 1,250×10 grid",404.79999999981374,37.5
+7,Vue,"Update every 10th row (1,250×10)",304.39999999990687,20.2
+7,Vue,"Replace all rows (1,250×10)",473.5999999998603,58
+7,Vue,"Clear 1,250×10 grid",162.5,34.3
+7,Vue,"Create 2,500×5 grid",632.0999999998603,67.2
+7,Vue,"Update every 10th row (2,500×5)",418.89999999990687,37.5
+7,Vue,"Replace all rows (2,500×5)",611.9000000001397,98.9
+7,Vue,"Clear 2,500×5 grid",144.29999999981374,37.6
+7,Svelte,Create 250×50 grid,539,109.8
+7,Svelte,Update every 10th row (250×50),168.0999999998603,15.6
+7,Svelte,Replace all rows (250×50),507.29999999981374,100
+7,Svelte,Clear 250×50 grid,88.30000000004657,22.1
+7,Svelte,Create 500×25 grid,338,52.4
+7,Svelte,Update every 10th row (500×25),156.5,12.3
+7,Svelte,Replace all rows (500×25),543.6999999999534,80
+7,Svelte,Clear 500×25 grid,55.9000000001397,15.8
+7,Svelte,"Create 12,500×1 grid",2718.600000000093,1554.6
+7,Svelte,"Update every 10th row (12,500×1)",414.10000000009313,80.2
+7,Svelte,"Replace all rows (12,500×1)",2936.899999999907,1791.8
+7,Svelte,"Clear 12,500×1 grid",181,82.3
+7,Svelte,"Create 1,250×10 grid",552,96.4
+7,Svelte,"Update every 10th row (1,250×10)",781.3000000000466,12.5
+7,Svelte,"Replace all rows (1,250×10)",461.19999999995343,82.6
+7,Svelte,"Clear 1,250×10 grid",100.60000000009313,27.9
+7,Svelte,"Create 2,500×5 grid",551.1999999999534,105.8
+7,Svelte,"Update every 10th row (2,500×5)",317.89999999990687,28.3
+7,Svelte,"Replace all rows (2,500×5)",582.8000000000466,192.3
+7,Svelte,"Clear 2,500×5 grid",119.30000000004657,33.9
+8,Vue,"Create 2,500×5 grid",637.6000000000931,121.5
+8,Vue,"Update every 10th row (2,500×5)",321.89999999990687,33.8
+8,Vue,"Replace all rows (2,500×5)",644.3000000000466,115
+8,Vue,"Clear 2,500×5 grid",117.30000000004657,35.6
+8,Vue,Create 500×25 grid,332.29999999981374,28.4
+8,Vue,Update every 10th row (500×25),189.69999999995343,18.2
+8,Vue,Replace all rows (500×25),359.60000000009313,55.1
+8,Vue,Clear 500×25 grid,85.5,20.4
+8,Vue,"Create 1,250×10 grid",683.5999999998603,43
+8,Vue,"Update every 10th row (1,250×10)",280.5,22.3
+8,Vue,"Replace all rows (1,250×10)",506.5,75.3
+8,Vue,"Clear 1,250×10 grid",96.10000000009313,27.3
+8,Vue,"Create 12,500×1 grid",1452.2000000001863,255.3
+8,Vue,"Update every 10th row (12,500×1)",546,100.3
+8,Vue,"Replace all rows (12,500×1)",2170.5,363.1
+8,Vue,"Clear 12,500×1 grid",241,92.9
+8,Vue,Create 250×50 grid,456.5999999998603,25.3
+8,Vue,Update every 10th row (250×50),180.9000000001397,12.3
+8,Vue,Replace all rows (250×50),395.4000000001397,45.4
+8,Vue,Clear 250×50 grid,117.5999999998603,22.7
+8,Svelte,"Create 2,500×5 grid",642,154.2
+8,Svelte,"Update every 10th row (2,500×5)",329.5,34.6
+8,Svelte,"Replace all rows (2,500×5)",778.0999999998603,183.2
+8,Svelte,"Clear 2,500×5 grid",108.0999999998603,29.8
+8,Svelte,Create 500×25 grid,396.79999999981374,63.5
+8,Svelte,Update every 10th row (500×25),146.9000000001397,9.1
+8,Svelte,Replace all rows (500×25),399.39999999990687,83.1
+8,Svelte,Clear 500×25 grid,75.4000000001397,20.1
+8,Svelte,"Create 1,250×10 grid",464.5999999998603,59.7
+8,Svelte,"Update every 10th row (1,250×10)",531.6999999999534,13.1
+8,Svelte,"Replace all rows (1,250×10)",445,66
+8,Svelte,"Clear 1,250×10 grid",103.19999999995343,31.2
+8,Svelte,"Create 12,500×1 grid",2449.5999999998603,1389.5
+8,Svelte,"Update every 10th row (12,500×1)",403.39999999990687,71.5
+8,Svelte,"Replace all rows (12,500×1)",2627.9000000001397,1585.2
+8,Svelte,"Clear 12,500×1 grid",157.69999999995343,70.2
+8,Svelte,Create 250×50 grid,441.30000000004657,64.1
+8,Svelte,Update every 10th row (250×50),165.89999999990687,6.5
+8,Svelte,Replace all rows (250×50),864.0999999998603,62.6
+8,Svelte,Clear 250×50 grid,110.30000000004657,13.6
+9,Vue,"Create 2,500×5 grid",741,142.3
+9,Vue,"Update every 10th row (2,500×5)",339.70000000018626,37.4
+9,Vue,"Replace all rows (2,500×5)",694.5,122.2
+9,Vue,"Clear 2,500×5 grid",95.39999999990687,25.4
+9,Vue,Create 500×25 grid,340.19999999995343,30.5
+9,Vue,Update every 10th row (500×25),165,20.3
+9,Vue,Replace all rows (500×25),392.39999999990687,61.4
+9,Vue,Clear 500×25 grid,108.0999999998603,15.3
+9,Vue,Create 250×50 grid,322.9000000001397,26.2
+9,Vue,Update every 10th row (250×50),163.89999999990687,14.3
+9,Vue,Replace all rows (250×50),394.79999999981374,44.6
+9,Vue,Clear 250×50 grid,90.30000000004657,19.8
+9,Vue,"Create 12,500×1 grid",1291.5999999998603,181.1
+9,Vue,"Update every 10th row (12,500×1)",577.3999999999069,116.5
+9,Vue,"Replace all rows (12,500×1)",1736.3000000000466,326.9
+9,Vue,"Clear 12,500×1 grid",225.9000000001397,93.2
+9,Vue,"Create 1,250×10 grid",506.0999999998603,38.2
+9,Vue,"Update every 10th row (1,250×10)",253.39999999990687,14.4
+9,Vue,"Replace all rows (1,250×10)",497.10000000009313,59.7
+9,Vue,"Clear 1,250×10 grid",104.89999999990687,21.5
+9,Svelte,"Create 2,500×5 grid",712,222.6
+9,Svelte,"Update every 10th row (2,500×5)",343.10000000009313,38.9
+9,Svelte,"Replace all rows (2,500×5)",746.6999999999534,198.4
+9,Svelte,"Clear 2,500×5 grid",108.19999999995343,30.5
+9,Svelte,Create 500×25 grid,435.69999999995343,60.9
+9,Svelte,Update every 10th row (500×25),162.5,13.2
+9,Svelte,Replace all rows (500×25),469.30000000004657,101
+9,Svelte,Clear 500×25 grid,112.30000000004657,26.4
+9,Svelte,Create 250×50 grid,402.70000000018626,48.4
+9,Svelte,Update every 10th row (250×50),154,8.8
+9,Svelte,Replace all rows (250×50),502.19999999995343,66.5
+9,Svelte,Clear 250×50 grid,118.5,17
+9,Svelte,"Create 12,500×1 grid",3041.6999999999534,1736.1
+9,Svelte,"Update every 10th row (12,500×1)",447.69999999995343,98
+9,Svelte,"Replace all rows (12,500×1)",2713.399999999907,1726.9
+9,Svelte,"Clear 12,500×1 grid",255.69999999995343,69.8
+9,Svelte,"Create 1,250×10 grid",510.60000000009313,59.5
+9,Svelte,"Update every 10th row (1,250×10)",689.5,13.8
+9,Svelte,"Replace all rows (1,250×10)",451.69999999995343,65.1
+9,Svelte,"Clear 1,250×10 grid",88.79999999981374,24
+10,Vue,Create 500×25 grid,593.8999999999069,54.4
+10,Vue,Update every 10th row (500×25),207.30000000004657,23.4
+10,Vue,Replace all rows (500×25),456.69999999995343,45.1
+10,Vue,Clear 500×25 grid,119.80000000004657,27.2
+10,Vue,"Create 1,250×10 grid",630.3000000000466,66.8
+10,Vue,"Update every 10th row (1,250×10)",318.19999999995343,27
+10,Vue,"Replace all rows (1,250×10)",396,61.8
+10,Vue,"Clear 1,250×10 grid",99.79999999981374,19.2
+10,Vue,Create 250×50 grid,483.69999999995343,40.5
+10,Vue,Update every 10th row (250×50),160.89999999990687,8
+10,Vue,Replace all rows (250×50),328.30000000004657,30.7
+10,Vue,Clear 250×50 grid,83.69999999995343,13.6
+10,Vue,"Create 12,500×1 grid",1330.8000000000466,221.9
+10,Vue,"Update every 10th row (12,500×1)",618.5,114.8
+10,Vue,"Replace all rows (12,500×1)",1991.6999999999534,356.8
+10,Vue,"Clear 12,500×1 grid",227.69999999995343,79.3
+10,Vue,"Create 2,500×5 grid",621.7999999998137,58.4
+10,Vue,"Update every 10th row (2,500×5)",332.69999999995343,23.5
+10,Vue,"Replace all rows (2,500×5)",634.3999999999069,114.2
+10,Vue,"Clear 2,500×5 grid",137,35.9
+10,Svelte,Create 500×25 grid,639,144.7
+10,Svelte,Update every 10th row (500×25),171.5,28.3
+10,Svelte,Replace all rows (500×25),603.1000000000931,131.5
+10,Svelte,Clear 500×25 grid,73,17.1
+10,Svelte,"Create 1,250×10 grid",418.70000000018626,77.2
+10,Svelte,"Update every 10th row (1,250×10)",489.10000000009313,22.1
+10,Svelte,"Replace all rows (1,250×10)",462.89999999990687,98.3
+10,Svelte,"Clear 1,250×10 grid",120.70000000018626,30.6
+10,Svelte,Create 250×50 grid,458.30000000004657,87.5
+10,Svelte,Update every 10th row (250×50),161.9000000001397,10.3
+10,Svelte,Replace all rows (250×50),571,92.6
+10,Svelte,Clear 250×50 grid,90.5,20.6
+10,Svelte,"Create 12,500×1 grid",2982.7000000001863,1544.4
+10,Svelte,"Update every 10th row (12,500×1)",459.30000000004657,90.1
+10,Svelte,"Replace all rows (12,500×1)",2861.600000000093,1819.4
+10,Svelte,"Clear 12,500×1 grid",188.19999999995343,81.1
+10,Svelte,"Create 2,500×5 grid",733.2999999998137,170.5
+10,Svelte,"Update every 10th row (2,500×5)",1042.1000000000931,21.2
+10,Svelte,"Replace all rows (2,500×5)",601.3999999999069,139
+10,Svelte,"Clear 2,500×5 grid",113.89999999990687,37.2

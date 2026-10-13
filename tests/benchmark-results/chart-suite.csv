@@ -1,0 +1,281 @@
+iteration,framework,operation,e2e_ms,in_app_ms
+1,Vue,Render 100 bars,82.60000000000582,2.9
+1,Vue,Render 500 bars,94.59999999999127,13.7
+1,Vue,"Render 2,500 bars",98.30000000000291,34
+1,Vue,"Render 12,500 bars",312.70000000001164,144.8
+1,Vue,Render scatter 100 pts,70.89999999999418,2
+1,Vue,Render scatter 500 pts,76.5,6.5
+1,Vue,"Render scatter 2,500 pts",100.69999999999709,17.6
+1,Vue,"Render scatter 12,500 pts",359.3999999999942,137.5
+1,Vue,Render line 100 pts,51.60000000000582,0.6
+1,Vue,Render line 500 pts,62.69999999999709,1.9
+1,Vue,"Render line 2,500 pts",55.5,3.2
+1,Vue,"Render line 12,500 pts",95.80000000000291,39
+1,Vue,"Update all charts (12,500 each)",668.6999999999971,215
+1,Vue,Clear all charts,70.40000000000873,20.2
+1,Svelte,Render 100 bars,87.69999999999709,8.4
+1,Svelte,Render 500 bars,97.80000000000291,23.9
+1,Svelte,"Render 2,500 bars",137.3000000000029,68
+1,Svelte,"Render 12,500 bars",561.5999999999913,401.3
+1,Svelte,Render scatter 100 pts,64.09999999999127,1.6
+1,Svelte,Render scatter 500 pts,76.30000000000291,8.2
+1,Svelte,"Render scatter 2,500 pts",156.8000000000029,75.9
+1,Svelte,"Render scatter 12,500 pts",448,295.9
+1,Svelte,Render line 100 pts,52.80000000000291,0.7
+1,Svelte,Render line 500 pts,57.10000000000582,1.7
+1,Svelte,"Render line 2,500 pts",53.90000000000873,4
+1,Svelte,"Render line 12,500 pts",85.40000000000873,28.6
+1,Svelte,"Update all charts (12,500 each)",737.6000000000058,387.3
+1,Svelte,Clear all charts,106.5,47.4
+2,Vue,Render 100 bars,87.69999999999709,4
+2,Vue,Render 500 bars,83.89999999999418,15.9
+2,Vue,"Render 2,500 bars",233.20000000001164,111.5
+2,Vue,"Render 12,500 bars",504,232.3
+2,Vue,Render scatter 100 pts,59.29999999998836,1.8
+2,Vue,Render scatter 500 pts,64.09999999999127,4.2
+2,Vue,"Render scatter 2,500 pts",148.70000000001164,33.3
+2,Vue,"Render scatter 12,500 pts",519.3999999999942,155.1
+2,Vue,Render line 100 pts,73.79999999998836,2.8
+2,Vue,Render line 500 pts,87.39999999999418,2.4
+2,Vue,"Render line 2,500 pts",96.5,11.4
+2,Vue,"Render line 12,500 pts",104.5,35.5
+2,Vue,"Update all charts (12,500 each)",897.8000000000029,385.7
+2,Vue,Clear all charts,83.80000000000291,23.5
+2,Svelte,Render 100 bars,81.30000000000291,8.3
+2,Svelte,Render 500 bars,67.60000000000582,16.3
+2,Svelte,"Render 2,500 bars",170.1999999999971,81
+2,Svelte,"Render 12,500 bars",505.3999999999942,301.3
+2,Svelte,Render scatter 100 pts,103.59999999999127,4.1
+2,Svelte,Render scatter 500 pts,76.30000000000291,7.2
+2,Svelte,"Render scatter 2,500 pts",122.30000000000291,41.4
+2,Svelte,"Render scatter 12,500 pts",495.90000000000873,371.4
+2,Svelte,Render line 100 pts,88.69999999999709,1.7
+2,Svelte,Render line 500 pts,61,2
+2,Svelte,"Render line 2,500 pts",97,7.9
+2,Svelte,"Render line 12,500 pts",86.30000000000291,31.3
+2,Svelte,"Update all charts (12,500 each)",1293.5999999999913,917.1
+2,Svelte,Clear all charts,229.90000000000873,70.7
+3,Vue,Render 100 bars,274.8999999999942,29
+3,Vue,Render 500 bars,118.59999999999127,19.3
+3,Vue,"Render 2,500 bars",199.10000000000582,62.2
+3,Vue,"Render 12,500 bars",610.7999999999884,310.5
+3,Vue,Render scatter 100 pts,91.5,1.3
+3,Vue,Render scatter 500 pts,98.80000000000291,16.7
+3,Vue,"Render scatter 2,500 pts",227.70000000001164,39.7
+3,Vue,"Render scatter 12,500 pts",544.1999999999971,203
+3,Vue,Render line 100 pts,71.40000000000873,0.8
+3,Vue,Render line 500 pts,108.40000000000873,4.2
+3,Vue,"Render line 2,500 pts",100.30000000000291,11.3
+3,Vue,"Render line 12,500 pts",95.69999999999709,34.8
+3,Vue,"Update all charts (12,500 each)",867.4000000000087,374.6
+3,Vue,Clear all charts,100.60000000000582,33.2
+3,Svelte,Render 100 bars,91.20000000001164,6.7
+3,Svelte,Render 500 bars,80.40000000002328,29
+3,Svelte,"Render 2,500 bars",177,99.6
+3,Svelte,"Render 12,500 bars",554,343.4
+3,Svelte,Render scatter 100 pts,100.89999999999418,10.4
+3,Svelte,Render scatter 500 pts,89.5,15.2
+3,Svelte,"Render scatter 2,500 pts",162.39999999999418,52.6
+3,Svelte,"Render scatter 12,500 pts",962.7999999999884,733.3
+3,Svelte,Render line 100 pts,90.79999999998836,1.1
+3,Svelte,Render line 500 pts,91.20000000001164,1.1
+3,Svelte,"Render line 2,500 pts",61.39999999999418,4.7
+3,Svelte,"Render line 12,500 pts",117.30000000001746,52.6
+3,Svelte,"Update all charts (12,500 each)",1170.5999999999767,705.4
+3,Svelte,Clear all charts,331,183.3
+4,Vue,Render 100 bars,128.60000000000582,4.5
+4,Vue,Render 500 bars,117,22
+4,Vue,"Render 2,500 bars",104.89999999999418,31.2
+4,Vue,"Render 12,500 bars",458.30000000001746,218
+4,Vue,Render scatter 100 pts,62.5,1.5
+4,Vue,Render scatter 500 pts,128,16.1
+4,Vue,"Render scatter 2,500 pts",170.89999999999418,52.6
+4,Vue,"Render scatter 12,500 pts",704.7000000000116,296.7
+4,Vue,Render line 100 pts,85.5,0.8
+4,Vue,Render line 500 pts,79.39999999999418,2
+4,Vue,"Render line 2,500 pts",70.10000000000582,6.9
+4,Vue,"Render line 12,500 pts",89.79999999998836,30.1
+4,Vue,"Update all charts (12,500 each)",730,277
+4,Vue,Clear all charts,83.79999999998836,21.3
+4,Svelte,Render 100 bars,71.20000000001164,5.7
+4,Svelte,Render 500 bars,102.60000000000582,23.9
+4,Svelte,"Render 2,500 bars",129,54.9
+4,Svelte,"Render 12,500 bars",523.3000000000175,371.3
+4,Svelte,Render scatter 100 pts,76.70000000001164,4.3
+4,Svelte,Render scatter 500 pts,94.39999999999418,11
+4,Svelte,"Render scatter 2,500 pts",119.10000000000582,33.5
+4,Svelte,"Render scatter 12,500 pts",517.8999999999942,389.5
+4,Svelte,Render line 100 pts,85.5,2.5
+4,Svelte,Render line 500 pts,89,3.5
+4,Svelte,"Render line 2,500 pts",127.5,14.7
+4,Svelte,"Render line 12,500 pts",142.69999999998254,57.8
+4,Svelte,"Update all charts (12,500 each)",735.5,379.6
+4,Svelte,Clear all charts,91.90000000002328,41
+5,Vue,Render 100 bars,95.19999999998254,3.3
+5,Vue,Render 500 bars,74.29999999998836,10
+5,Vue,"Render 2,500 bars",106.79999999998836,31.6
+5,Vue,"Render 12,500 bars",248.60000000000582,102
+5,Vue,Render scatter 100 pts,65.19999999998254,1.5
+5,Vue,Render scatter 500 pts,59.10000000000582,3.5
+5,Vue,"Render scatter 2,500 pts",124.29999999998836,24.9
+5,Vue,"Render scatter 12,500 pts",292.5,95.6
+5,Vue,Render line 100 pts,58.30000000001746,1.3
+5,Vue,Render line 500 pts,57,1.5
+5,Vue,"Render line 2,500 pts",59.70000000001164,4.4
+5,Vue,"Render line 12,500 pts",83,23.9
+5,Vue,"Update all charts (12,500 each)",630.8999999999942,255.7
+5,Vue,Clear all charts,71.09999999997672,21.1
+5,Svelte,Render 100 bars,58,5.1
+5,Svelte,Render 500 bars,91.29999999998836,24.2
+5,Svelte,"Render 2,500 bars",104.89999999999418,53.6
+5,Svelte,"Render 12,500 bars",373.69999999998254,250.1
+5,Svelte,Render scatter 100 pts,52,1.5
+5,Svelte,Render scatter 500 pts,61.20000000001164,5.4
+5,Svelte,"Render scatter 2,500 pts",78.79999999998836,22.8
+5,Svelte,"Render scatter 12,500 pts",372.1000000000058,261.8
+5,Svelte,Render line 100 pts,43.70000000001164,0.7
+5,Svelte,Render line 500 pts,53.5,2.7
+5,Svelte,"Render line 2,500 pts",61.79999999998836,3.2
+5,Svelte,"Render line 12,500 pts",96.30000000001746,34.7
+5,Svelte,"Update all charts (12,500 each)",725.7000000000116,344.1
+5,Svelte,Clear all charts,123.5,47
+6,Vue,Render 100 bars,68.39999999999418,3.1
+6,Vue,Render 500 bars,87.60000000000582,19
+6,Vue,"Render 2,500 bars",98.30000000001746,35.2
+6,Vue,"Render 12,500 bars",260.8999999999942,104.7
+6,Vue,Render scatter 100 pts,39.39999999999418,0.9
+6,Vue,Render scatter 500 pts,62.70000000001164,4.2
+6,Vue,"Render scatter 2,500 pts",73.10000000000582,21
+6,Vue,"Render scatter 12,500 pts",245.10000000000582,84.9
+6,Vue,Render line 100 pts,60.20000000001164,1
+6,Vue,Render line 500 pts,68.29999999998836,1.9
+6,Vue,"Render line 2,500 pts",70,5
+6,Vue,"Render line 12,500 pts",86.60000000000582,21.7
+6,Vue,"Update all charts (12,500 each)",531.7999999999884,217
+6,Vue,Clear all charts,90.59999999997672,22.7
+6,Svelte,Render 100 bars,83.20000000001164,5.4
+6,Svelte,Render 500 bars,64.10000000000582,18.8
+6,Svelte,"Render 2,500 bars",125.10000000000582,57.8
+6,Svelte,"Render 12,500 bars",506.3999999999942,369.2
+6,Svelte,Render scatter 100 pts,73.19999999998254,2.2
+6,Svelte,Render scatter 500 pts,59,6.6
+6,Svelte,"Render scatter 2,500 pts",95.89999999999418,30.5
+6,Svelte,"Render scatter 12,500 pts",429.69999999998254,294.1
+6,Svelte,Render line 100 pts,70,1.1
+6,Svelte,Render line 500 pts,76.5,2.7
+6,Svelte,"Render line 2,500 pts",77.39999999999418,12.6
+6,Svelte,"Render line 12,500 pts",88.60000000000582,30.4
+6,Svelte,"Update all charts (12,500 each)",687.4000000000233,397.2
+6,Svelte,Clear all charts,123.30000000001746,43.7
+7,Vue,Render 100 bars,72.5,5.3
+7,Vue,Render 500 bars,75.80000000001746,13.6
+7,Vue,"Render 2,500 bars",97.79999999998836,36.4
+7,Vue,"Render 12,500 bars",252.60000000000582,103.6
+7,Vue,Render scatter 100 pts,55.60000000000582,1.4
+7,Vue,Render scatter 500 pts,96.60000000000582,3.6
+7,Vue,"Render scatter 2,500 pts",86.39999999999418,14.3
+7,Vue,"Render scatter 12,500 pts",251.70000000001164,90
+7,Vue,Render line 100 pts,81.90000000002328,1.2
+7,Vue,Render line 500 pts,57.79999999998836,1.5
+7,Vue,"Render line 2,500 pts",56.30000000001746,3.7
+7,Vue,"Render line 12,500 pts",84.5,21.6
+7,Vue,"Update all charts (12,500 each)",627.3999999999942,213.8
+7,Vue,Clear all charts,115.20000000001164,31.8
+7,Svelte,Render 100 bars,108.40000000002328,5.2
+7,Svelte,Render 500 bars,132.60000000000582,36.6
+7,Svelte,"Render 2,500 bars",174,91.2
+7,Svelte,"Render 12,500 bars",496.4000000000233,336.6
+7,Svelte,Render scatter 100 pts,56.79999999998836,2.8
+7,Svelte,Render scatter 500 pts,74.20000000001164,8.5
+7,Svelte,"Render scatter 2,500 pts",115.40000000002328,36.8
+7,Svelte,"Render scatter 12,500 pts",494.0999999999767,340
+7,Svelte,Render line 100 pts,73.10000000000582,2.3
+7,Svelte,Render line 500 pts,68.20000000001164,1.5
+7,Svelte,"Render line 2,500 pts",70.79999999998836,3.7
+7,Svelte,"Render line 12,500 pts",126.30000000001746,48.5
+7,Svelte,"Update all charts (12,500 each)",620.1000000000058,344.9
+7,Svelte,Clear all charts,136,48.7
+8,Vue,Render 100 bars,73.10000000000582,3.1
+8,Vue,Render 500 bars,66,11.8
+8,Vue,"Render 2,500 bars",161.79999999998836,79.9
+8,Vue,"Render 12,500 bars",288.3999999999942,121.4
+8,Vue,Render scatter 100 pts,77.10000000000582,1.9
+8,Vue,Render scatter 500 pts,88.70000000001164,8
+8,Vue,"Render scatter 2,500 pts",108.5,15.4
+8,Vue,"Render scatter 12,500 pts",383.70000000001164,144.6
+8,Vue,Render line 100 pts,55,0.7
+8,Vue,Render line 500 pts,53.40000000002328,1.1
+8,Vue,"Render line 2,500 pts",59.29999999998836,2.7
+8,Vue,"Render line 12,500 pts",76.89999999999418,17.1
+8,Vue,"Update all charts (12,500 each)",613.2999999999884,265.6
+8,Vue,Clear all charts,122.30000000001746,31.9
+8,Svelte,Render 100 bars,122.39999999999418,7.1
+8,Svelte,Render 500 bars,98.60000000000582,29.3
+8,Svelte,"Render 2,500 bars",204.69999999998254,102
+8,Svelte,"Render 12,500 bars",470.20000000001164,329.7
+8,Svelte,Render scatter 100 pts,90.5,1.8
+8,Svelte,Render scatter 500 pts,68.89999999999418,4.6
+8,Svelte,"Render scatter 2,500 pts",100,27.5
+8,Svelte,"Render scatter 12,500 pts",436.79999999998836,303
+8,Svelte,Render line 100 pts,54.69999999998254,0.6
+8,Svelte,Render line 500 pts,57.5,3.9
+8,Svelte,"Render line 2,500 pts",72.5,9
+8,Svelte,"Render line 12,500 pts",101,32.9
+8,Svelte,"Update all charts (12,500 each)",903.2999999999884,467.1
+8,Svelte,Clear all charts,120.10000000000582,52.1
+9,Vue,Render 100 bars,76.80000000001746,4.2
+9,Vue,Render 500 bars,88.5,13.4
+9,Vue,"Render 2,500 bars",153.40000000002328,68.6
+9,Vue,"Render 12,500 bars",389.5,203.7
+9,Vue,Render scatter 100 pts,81.60000000000582,2.5
+9,Vue,Render scatter 500 pts,126.5,5.4
+9,Vue,"Render scatter 2,500 pts",144.10000000000582,32.9
+9,Vue,"Render scatter 12,500 pts",304.79999999998836,115.7
+9,Vue,Render line 100 pts,63.39999999999418,0.9
+9,Vue,Render line 500 pts,60.70000000001164,1.8
+9,Vue,"Render line 2,500 pts",91.30000000001746,6.5
+9,Vue,"Render line 12,500 pts",96.60000000000582,29.5
+9,Vue,"Update all charts (12,500 each)",780.6999999999825,279.1
+9,Vue,Clear all charts,166.19999999998254,37.9
+9,Svelte,Render 100 bars,100.5,5.2
+9,Svelte,Render 500 bars,82.5,18.2
+9,Svelte,"Render 2,500 bars",149.59999999997672,76.2
+9,Svelte,"Render 12,500 bars",431.80000000001746,294.7
+9,Svelte,Render scatter 100 pts,68.5,2.2
+9,Svelte,Render scatter 500 pts,90.79999999998836,12
+9,Svelte,"Render scatter 2,500 pts",97.80000000001746,29.8
+9,Svelte,"Render scatter 12,500 pts",409.79999999998836,288.5
+9,Svelte,Render line 100 pts,57.60000000000582,1.1
+9,Svelte,Render line 500 pts,83.90000000002328,3.7
+9,Svelte,"Render line 2,500 pts",61.59999999997672,5.8
+9,Svelte,"Render line 12,500 pts",96.39999999999418,34.3
+9,Svelte,"Update all charts (12,500 each)",673.7999999999884,336.7
+9,Svelte,Clear all charts,105.19999999998254,42.1
+10,Vue,Render 100 bars,77.19999999998254,3.7
+10,Vue,Render 500 bars,79.39999999999418,10.3
+10,Vue,"Render 2,500 bars",98.29999999998836,33.3
+10,Vue,"Render 12,500 bars",252,102.9
+10,Vue,Render scatter 100 pts,44.69999999998254,1.1
+10,Vue,Render scatter 500 pts,68.70000000001164,4.2
+10,Vue,"Render scatter 2,500 pts",95.10000000000582,16.6
+10,Vue,"Render scatter 12,500 pts",331.70000000001164,138.7
+10,Vue,Render line 100 pts,98.89999999999418,1.6
+10,Vue,Render line 500 pts,69.5,2.5
+10,Vue,"Render line 2,500 pts",57.10000000000582,3.9
+10,Vue,"Render line 12,500 pts",81,21.4
+10,Vue,"Update all charts (12,500 each)",651.2000000000116,237.6
+10,Vue,Clear all charts,111.20000000001164,41
+10,Svelte,Render 100 bars,91.5,5.3
+10,Svelte,Render 500 bars,94.10000000000582,27.7
+10,Svelte,"Render 2,500 bars",126.30000000001746,61.8
+10,Svelte,"Render 12,500 bars",475.4000000000233,352.6
+10,Svelte,Render scatter 100 pts,51.80000000001746,1.8
+10,Svelte,Render scatter 500 pts,90.79999999998836,10.2
+10,Svelte,"Render scatter 2,500 pts",212,88
+10,Svelte,"Render scatter 12,500 pts",536.7999999999884,339.1
+10,Svelte,Render line 100 pts,41.39999999999418,0.7
+10,Svelte,Render line 500 pts,49.89999999999418,1.1
+10,Svelte,"Render line 2,500 pts",62.70000000001164,3.5
+10,Svelte,"Render line 12,500 pts",93.5,32.4
+10,Svelte,"Update all charts (12,500 each)",676.7999999999884,368.8
+10,Svelte,Clear all charts,93.29999999998836,53.6

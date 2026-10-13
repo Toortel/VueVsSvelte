@@ -1,0 +1,181 @@
+iteration,framework,stage,used_js_heap_mb,total_js_heap_mb
+1,Vue,Baseline,1.96,4.14
+1,Vue,After 2500 rows,11.24,17.85
+1,Vue,After clear 2500,4.15,10.43
+1,Vue,After 500 rows,6.58,11.71
+1,Vue,After clear 500,4.67,12.18
+1,Vue,After 100 rows,5.21,12.19
+1,Vue,After clear 100,4.77,6.43
+1,Vue,After 12 500 rows,34.37,57.96
+1,Vue,After clear 12 500,13.45,36.66
+1,Svelte,Baseline,1.58,3.39
+1,Svelte,After 2500 rows,8.46,13.79
+1,Svelte,After clear 2500,5.08,13.18
+1,Svelte,After 500 rows,6.58,19.2
+1,Svelte,After clear 500,5.79,18.68
+1,Svelte,After 100 rows,6.52,18.94
+1,Svelte,After clear 100,5.36,18.93
+1,Svelte,After 12 500 rows,37.77,52.52
+1,Svelte,After clear 12 500,20.86,50.64
+2,Vue,Baseline,1.96,4.14
+2,Vue,After 500 rows,3.54,6.91
+2,Vue,After clear 500,2.71,5.89
+2,Vue,After 12 500 rows,32.46,55.42
+2,Vue,After clear 12 500,12.01,35.62
+2,Vue,After 2500 rows,22.58,41.23
+2,Vue,After clear 2500,13.82,42.62
+2,Vue,After 100 rows,14.34,42.87
+2,Vue,After clear 100,12.15,39.37
+2,Svelte,Baseline,1.58,3.39
+2,Svelte,After 500 rows,3.22,7.67
+2,Svelte,After clear 500,2.58,7.89
+2,Svelte,After 12 500 rows,35.09,59.74
+2,Svelte,After clear 12 500,18.21,57.86
+2,Svelte,After 2500 rows,25.05,76.72
+2,Svelte,After clear 2500,21.39,76.86
+2,Svelte,After 100 rows,22.05,76.86
+2,Svelte,After clear 100,21.42,76.86
+3,Vue,Baseline,1.96,4.14
+3,Vue,After 500 rows,3.54,6.66
+3,Vue,After clear 500,2.71,5.89
+3,Vue,After 12 500 rows,32.55,56.17
+3,Vue,After clear 12 500,12.01,30.87
+3,Vue,After 2500 rows,22.6,39.73
+3,Vue,After clear 2500,13.82,39.12
+3,Vue,After 100 rows,14.34,39.37
+3,Vue,After clear 100,12.15,37.12
+3,Svelte,Baseline,1.58,3.39
+3,Svelte,After 500 rows,3.22,7.67
+3,Svelte,After clear 500,2.57,7.89
+3,Svelte,After 12 500 rows,35.12,50.24
+3,Svelte,After clear 12 500,18.25,47.86
+3,Svelte,After 2500 rows,25.43,73.47
+3,Svelte,After clear 2500,21.42,73.36
+3,Svelte,After 100 rows,22.08,73.36
+3,Svelte,After clear 100,18.48,71.36
+4,Vue,Baseline,1.96,4.14
+4,Vue,After 500 rows,3.54,6.91
+4,Vue,After clear 500,2.71,6.14
+4,Vue,After 12 500 rows,32.33,55.17
+4,Vue,After clear 12 500,12.01,32.87
+4,Vue,After 2500 rows,22.6,39.98
+4,Vue,After clear 2500,13.82,41.12
+4,Vue,After 100 rows,14.34,41.37
+4,Vue,After clear 100,12.15,40.37
+4,Svelte,Baseline,1.58,3.39
+4,Svelte,After 500 rows,3.21,8.17
+4,Svelte,After clear 500,2.58,7.39
+4,Svelte,After 12 500 rows,35.17,59.24
+4,Svelte,After clear 12 500,18.3,52.36
+4,Svelte,After 2500 rows,25.11,73.22
+4,Svelte,After clear 2500,21.47,73.11
+4,Svelte,After 100 rows,22.14,73.11
+4,Svelte,After clear 100,18.4,72.11
+5,Vue,Baseline,1.96,4.14
+5,Vue,After 100 rows,2.77,5.15
+5,Vue,After clear 100,2.3,4.39
+5,Vue,After 12 500 rows,32.52,60.17
+5,Vue,After clear 12 500,11.65,33.37
+5,Vue,After 2500 rows,22.24,40.73
+5,Vue,After clear 2500,13.47,42.12
+5,Vue,After 500 rows,15.65,42.39
+5,Vue,After clear 500,12.08,41.87
+5,Svelte,Baseline,1.58,3.39
+5,Svelte,After 100 rows,2.53,4.64
+5,Svelte,After clear 100,1.98,4.14
+5,Svelte,After 12 500 rows,34.78,59.74
+5,Svelte,After clear 12 500,17.9,55.86
+5,Svelte,After 2500 rows,25.08,76.72
+5,Svelte,After clear 2500,21.07,76.61
+5,Svelte,After 500 rows,27.88,76.63
+5,Svelte,After clear 500,18.64,76.61
+6,Vue,Baseline,1.96,4.14
+6,Vue,After 500 rows,3.54,7.16
+6,Vue,After clear 500,2.71,5.64
+6,Vue,After 100 rows,3.26,5.9
+6,Vue,After clear 100,2.86,5.89
+6,Vue,After 12 500 rows,33,51.92
+6,Vue,After clear 12 500,12.02,34.12
+6,Vue,After 2500 rows,22.62,36.73
+6,Vue,After clear 2500,13.87,35.12
+6,Svelte,Baseline,1.58,3.39
+6,Svelte,After 500 rows,3.22,7.67
+6,Svelte,After clear 500,2.57,7.64
+6,Svelte,After 100 rows,3.3,8.4
+6,Svelte,After clear 100,2.66,7.64
+6,Svelte,After 12 500 rows,35.39,60.24
+6,Svelte,After clear 12 500,18.46,57.61
+6,Svelte,After 2500 rows,27.6,78.47
+6,Svelte,After clear 2500,21.69,78.36
+7,Vue,Baseline,1.96,4.14
+7,Vue,After 500 rows,3.54,6.91
+7,Vue,After clear 500,2.71,5.64
+7,Vue,After 100 rows,3.27,5.65
+7,Vue,After clear 100,2.86,5.64
+7,Vue,After 2500 rows,11.73,17.85
+7,Vue,After clear 2500,4.71,10.18
+7,Vue,After 12 500 rows,34.71,56.46
+7,Vue,After clear 12 500,12.08,29.62
+7,Svelte,Baseline,1.58,3.39
+7,Svelte,After 500 rows,3.22,7.92
+7,Svelte,After clear 500,2.57,7.89
+7,Svelte,After 100 rows,3.3,7.9
+7,Svelte,After clear 100,2.79,7.89
+7,Svelte,After 2500 rows,9.49,20.79
+7,Svelte,After clear 2500,6.07,20.43
+7,Svelte,After 12 500 rows,38.83,70.04
+7,Svelte,After clear 12 500,18.76,65.35
+8,Vue,Baseline,1.96,3.89
+8,Vue,After 100 rows,2.77,5.4
+8,Vue,After clear 100,2.3,4.14
+8,Vue,After 500 rows,3.68,6.91
+8,Vue,After clear 500,2.88,5.89
+8,Vue,After 12 500 rows,32.95,60.42
+8,Vue,After clear 12 500,11.68,32.87
+8,Vue,After 2500 rows,22.23,39.98
+8,Vue,After clear 2500,13.51,42.12
+8,Svelte,Baseline,1.58,3.39
+8,Svelte,After 100 rows,2.53,4.64
+8,Svelte,After clear 100,1.99,3.89
+8,Svelte,After 500 rows,3.46,8.17
+8,Svelte,After clear 500,2.81,7.39
+8,Svelte,After 12 500 rows,35.38,59.74
+8,Svelte,After clear 12 500,18.44,55.36
+8,Svelte,After 2500 rows,27.94,76.22
+8,Svelte,After clear 2500,21.67,76.11
+9,Vue,Baseline,1.96,4.14
+9,Vue,After 100 rows,2.77,5.65
+9,Vue,After clear 100,2.3,4.64
+9,Vue,After 2500 rows,11.33,16.85
+9,Vue,After clear 2500,4.34,9.93
+9,Vue,After 12 500 rows,34.4,61.21
+9,Vue,After clear 12 500,11.75,33.62
+9,Vue,After 500 rows,13.93,33.64
+9,Vue,After clear 500,12.15,33.62
+9,Svelte,Baseline,1.58,3.39
+9,Svelte,After 100 rows,2.53,4.64
+9,Svelte,After clear 100,1.98,4.14
+9,Svelte,After 2500 rows,8.74,16.29
+9,Svelte,After clear 2500,5.37,15.18
+9,Svelte,After 12 500 rows,36.65,63.44
+9,Svelte,After clear 12 500,21.12,58.89
+9,Svelte,After 500 rows,27.9,58.91
+9,Svelte,After clear 500,21.81,58.89
+10,Vue,Baseline,1.96,4.14
+10,Vue,After 100 rows,2.77,5.15
+10,Vue,After clear 100,2.3,4.89
+10,Vue,After 2500 rows,11.33,17.85
+10,Vue,After clear 2500,4.34,10.43
+10,Vue,After 500 rows,6.73,10.71
+10,Vue,After clear 500,4.78,10.43
+10,Vue,After 12 500 rows,34.77,62.21
+10,Vue,After clear 12 500,13.52,35.41
+10,Svelte,Baseline,1.58,3.39
+10,Svelte,After 100 rows,2.53,4.64
+10,Svelte,After clear 100,1.98,4.14
+10,Svelte,After 2500 rows,8.55,14.29
+10,Svelte,After clear 2500,5.18,14.18
+10,Svelte,After 500 rows,6.65,19.7
+10,Svelte,After clear 500,5.85,19.68
+10,Svelte,After 12 500 rows,38.62,69.03
+10,Svelte,After clear 12 500,21.06,64.14
